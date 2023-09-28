@@ -11,7 +11,7 @@ public class Autos {
         System.out.println(opalão.getTipo());
         System.out.println(opalão.getCor());
 
-        Carro gol = new Carro();
+        OutroCarro gol = new OutroCarro();
 
         gol.setPlaca("S23RD2");
         gol.setTipo("golzinho orbital");
